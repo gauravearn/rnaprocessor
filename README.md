@@ -2,7 +2,7 @@
 
 a processor for machine learning implementation of the target annotations and processing the transcriptomics for machine learning applications. This package will develop all the machine learning site specific modules for the alignment tags and also will extract the corresponding sequences across those sites. 
 
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
